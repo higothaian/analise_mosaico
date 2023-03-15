@@ -1,2 +1,2 @@
 # analise_mosaico
-Análise inicial dos dados disponíveis na plataforma mosaíco
+Análise inicial dos dados disponíveis na plataforma Mosaico
